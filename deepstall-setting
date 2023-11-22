@@ -1,0 +1,11 @@
+Deep Stall Maneuver
+
+Deep Stall Maneuver merupakan maneuver Extreme yang dilakukan Quadcopter/ drone 4 Baling-Baling yang akan
+melakukan maneuver extreme dengan kemiringan sampai 90 derajat sebelum melakukan perhentian di target point
+yang sudah ditentukan.
+
+Skrip Python dengan menggunakan ArduPilot melalui MAVLink
+
+Catatan    - Pastikan sudah menginstal Library 'dronekit' untuk dapat melakukan Komunikasi dengan menggunakan ArduPilot
+- Perhatikan 'connection_string' sebelum menghubungkan ArduPilot dengan Serial USB
+- Pastikan untuk menyimpan koordinat target point yang Valid dalam Variable 'target-location'
